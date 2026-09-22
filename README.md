@@ -1,16 +1,34 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**vsivn/vsivn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<sub><i>Если это непонятно человеку, это не будет понятно и ИИ.</i></sub>
 
-Here are some ideas to get you started:
+<br/><br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://img.shields.io/badge/На работе-000000?style=for-the-badge&logo=googlemaps&logoColor=white" />
+<img src="https://img.shields.io/github/followers/vsivn?style=for-the-badge&label=Followers&color=000000&labelColor=1a1a1a" />
+<img src="https://komarev.com/ghpvc/?username=vsivn&style=for-the-badge&color=000000&label=Просмотры+профиля" />
+
+</div>
+<br/>
+
+## Обо мне
+
+Этот GitHub-аккаунт используется исключительно в учебных целях. В дальнейшем все проекты после их завершения будут перенесены в этот аккаунт [сюда](https://github.com/VexWingDev), так как это мой основной аккаунт.
+
+А пока можете ознакомиться с любыми проектами, которые находятся здесь. Позже этот аккаунт будет переориентирован на учебные цели, начиная с января 2027 года.
+
+<br/>
+
+## Стек
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=py,ts,js,c,rabbitmq,nodejs,git,github,vscode,linux&theme=dark" />
+</div>
+
+<br/>
+
+
+
+<div align="center">
+<img src="footer.svg" width="100%"/>
+</div>
